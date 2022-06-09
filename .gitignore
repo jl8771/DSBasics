@@ -1,0 +1,6 @@
+compareCSV.ipynb
+input/
+output/
+*.log
+.vscode
+.env
